@@ -1,0 +1,19 @@
+{
+  "course": [
+    {
+      "id": 1,
+      "name": "kien thuc tong quat",
+      "description": "kien thuoc co ban"
+    },
+    {
+      "name": "nodejs",
+      "description": "lap trinh backend",
+      "id": 2
+    },
+    {
+      "name": "aaa",
+      "description": "aaaaa",
+      "id": 3
+    }
+  ]
+}
